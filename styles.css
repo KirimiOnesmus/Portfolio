@@ -514,10 +514,8 @@ footer {
      width: auto;
     }
     #skills{
-        margin-top:75%;
-        margin-bottom:0%;
-        margin-right:0%;
-        margin-left:0%;
+     margin:0%;
+     padding:10% 0% 0% 10%;
     }
     .skills-container{
         display: flex;
