@@ -534,8 +534,8 @@ footer {
         padding-top: 10px;
         width: 100%;
         /* height: fit-content; */
-        max-height: 100vh;
-        margin-bottom:10rem;
+        max-height: 100%;
+        margin-bottom:5rem;
 
    
       }
