@@ -515,8 +515,6 @@ footer {
     }
     #skills{
      margin:0%;
-     padding-top:30rem;
-     padding-bottom:10rem;
     }
     .skills-container{
         display: flex;
@@ -536,7 +534,8 @@ footer {
         padding-top: 10px;
         width: 100%;
         /* height: fit-content; */
-        max-height: 80vh;
+        max-height: 100vh;
+        margin-bottom:10rem;
 
    
       }
